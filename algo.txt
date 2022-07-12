@@ -1,0 +1,8 @@
+Pizza Delivery
+Pick up Pizza
+Pepperoni Pizza
+Meat Lovers Pizza
+Vegetable Pizza
+Large Pizza
+Medium Pizza
+Small PIzza
